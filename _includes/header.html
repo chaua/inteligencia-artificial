@@ -1,0 +1,75 @@
+<!-- .............................................................. -->
+<!-- HEADER ....................................................... -->
+<!-- .............................................................. -->
+<header>
+
+    <!-- Barra superior -->
+    <nav class="top-nav {{site.color_class}}">
+        <div class="nav-wrapper">
+            <div class="container">    
+                <a class="page-title" href="#">{{site.title}}</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Botão de menu -->
+    <div class="container">
+        <a href="#" data-activates="slide-out" class="button-collapse top-nav full hide-on-large-only">
+            <i class="material-icons">menu</i>
+        </a>
+    </div>
+
+    <!-- Menu lateral -->
+    <ul id="slide-out" class="side-nav fixed" style="transform: translateX(0px);">
+        <li>
+            <div class="userView">
+                <div class="background"></div>
+                <img class="circle z-depth-2" src="{{site.baseurl}}/assets/img/logo.png"></a>
+            <span class="white-text name">{{site.title}}</span>
+            <span class="white-text email"></span>
+            </div>
+        </li>
+
+        <li>
+            <a class="waves-effect" href="{{site.baseurl}}/">
+                <i class="material-icons">home</i>Home
+            </a>
+        </li>
+        <li>
+            <a class="waves-effect" href="{{site.baseurl}}/aulas">
+                <i class="material-icons">description</i>Aulas
+            </a>
+        </li>
+        <!--
+            <li>
+            <a class="waves-effect" href="/projetos">
+            <i class="material-icons">laptop_mac</i>Projetos
+            </a>
+            </li>
+        -->
+            <li>
+            <a class="waves-effect" href="{{site.baseurl}}/trabalhos">
+            <i class="material-icons">assignment</i>Trabalhos
+            </a>
+            </li>
+        <li>
+            <a class="waves-effect" href="{{site.baseurl}}/referencias">
+                <i class="material-icons">book</i>Referências bibliográficas
+            </a>
+        </li>
+
+        <li><div class="divider"></div></li>
+        <li>
+            <a class="waves-effect" href="{{site.author.website}}">
+                <i class="material-icons">person</i>Sobre
+            </a>
+        </li>
+        <!--
+            <li>
+            <a class="waves-effect" href="/contato">
+            <i class="material-icons">email</i>Contato
+            </a>
+            </li>
+        -->
+    </ul>
+</header>

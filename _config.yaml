@@ -1,0 +1,42 @@
+# -----------------------------------------------------------------------------
+
+title:          Inteligência Artificial 
+
+author:
+    name:       Chauã Queirolo
+    website:    http://github.com/chaua/inteligencia-artificial
+
+    #baseurl:        "https://chaua.github.io/programacao-mobile"
+
+color_class:        "red darken-4"
+color_primary:      "#b71c1c"
+color_secondary:    "#e53935"
+color_accent:       "#ff8f00"
+
+# -----------------------------------------------------------------------------
+# Build settings
+# -----------------------------------------------------------------------------
+
+markdown: kramdown
+
+plugins:
+    - jekyll-feed
+    - jekyll-seo-tag
+      #    - jekyll-compress-html
+
+exclude:
+    - README.md
+    - node_modules
+    - package.json
+    - package-lock.json
+    - Gemfile
+    - Gemfile.lock
+
+compress_html:
+    comments:       ["<!-- ", " -->"]
+    clippings:      all
+    endings:        all
+
+sass:
+    style:          compressed
+
