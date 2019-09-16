@@ -25,7 +25,7 @@ layout: page
 ## 📒 Instruções
 
 - Os trabalhos devem ser entregues via [GitHub](https://github.com).
-- Criar um repositório chamado `programacao-mobile`.
+- Criar um repositório chamado `inteligencia-artificial`.
 - Adicionar o usuário do professor (`chaua`) aos colaboradores do projeto.
 - Criar o arquivo `README.md` com o curso, disciplina, nome do aluno.
 - Criar um diretório para cada projeto com os arquivos para avaliação:
