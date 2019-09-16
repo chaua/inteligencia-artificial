@@ -6,19 +6,19 @@ layout: page
 
 ## 🏋🏼‍♂️ 1o Bimestre
 
-- [**Trabalho 1:** Torre de Hanói]({{page.baseurl}}/trabalhos/torre)
+- [**Trabalho 1:** Torre de Hanói]({{site.baseurl}}/trabalhos/torre)
     - Individual
     - 80% da nota do estudo dirigido
-- [**Trabalho 2**: Otimização]({{page.baseurl}}/trabalhos/otimizacao) 
+- [**Trabalho 2**: Otimização]({{site.baseurl}}/trabalhos/otimizacao) 
     - Individual
     - 20% da nota do estudo dirigido
 
 ## 🏋🏼‍♂️ 2o Bimestre
 
-- [**Trabalho 3:** Subculturas]({{page.baseurl}}/trabalhos/)
+- [**Trabalho 3:** Subculturas]({{site.baseurl}}/trabalhos/)
     - Individual
     - 30% da nota do estudo dirigido
-- [**Trabalho 4:** Agentes probabilísticos]({{page.baseurl}}/trabalhos/)
+- [**Trabalho 4:** Agentes probabilísticos]({{site.baseurl}}/trabalhos/)
     - Individual
     - 70% da nota do estudo dirigido
 

@@ -6,7 +6,7 @@ author:
     name:       Chauã Queirolo
     website:    http://github.com/chaua/inteligencia-artificial
 
-baseurl:        "https://chaua.github.io/inteligencia-artificial"
+    #baseurl:        "https://chaua.github.io/inteligencia-artificial"
 
 color_class:        "red darken-4"
 color_primary:      "#b71c1c"
