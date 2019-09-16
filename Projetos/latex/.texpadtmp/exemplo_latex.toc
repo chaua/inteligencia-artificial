@@ -1,0 +1,9 @@
+\select@language {brazil}
+\contentsline {section}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{1}
+\contentsline {section}{\numberline {2}Trabalhos Relacionados}{2}
+\contentsline {section}{\numberline {3}Fundamenta\IeC {\c c}\IeC {\~a}o Te\IeC {\'o}rica}{2}
+\contentsline {subsection}{\numberline {3.1}Algoritmo 1}{2}
+\contentsline {subsection}{\numberline {3.2}Algoritmo 2}{2}
+\contentsline {section}{\numberline {4}Tabelas}{2}
+\contentsline {section}{\numberline {5}Figuras}{2}
+\contentsline {section}{\numberline {6}Exemplo de f\IeC {\'o}rmulas}{2}
