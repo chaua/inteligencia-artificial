@@ -15,12 +15,12 @@ layout: page
 
 ## 🏋🏼‍♂️ 2o Bimestre
 
-- [**Trabalho 3:** Subculturas]({{site.baseurl}}/trabalhos/)
+- [**Trabalho 3:** Moedas]({{site.baseurl}}/trabalhos/moedas)
     - Individual
-    - 30% da nota do estudo dirigido
+    - 50% da nota do estudo dirigido
 - [**Trabalho 4:** Agentes probabilísticos]({{site.baseurl}}/trabalhos/)
     - Individual
-    - 70% da nota do estudo dirigido
+    - 50% da nota do estudo dirigido
 
 ## 📒 Instruções
 
