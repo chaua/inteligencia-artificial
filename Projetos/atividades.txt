@@ -1,0 +1,38 @@
+# ATIVIDADE 1
+
+1. Ana e Raí moram em Santana, Bia mora no Tatuapé, Edu mora no
+Mandaqui, Gil mora na Penha e Eva mora na Vila Carrão.
+
+2. Santana e Mandaqui ficam na zona norte e Tatuapé, Penha e Vila Carrão
+ficam na zona leste.
+
+3. Ana e Gil têm carro.
+
+4. Uma pessoa pode dar carona à outra se ela tem carro e ambas moram em
+bairros que ficam na mesma zona.
+
+Represente estas informações, usando os predicados a seguir:
+
+mora_em(Pessoa,Bairro)
+fica_na_zona(Bairro,Zona)
+tem_carro(Pessoa)
+pode_dar_carona_a(Pessoa,Pessoa)
+
+# ATIVIDADE 2
+
+medida(cozinha, 2.0, 3.0). 
+medida(sala, 4.0, 5.5). 
+medida(quarto, 3.0, 3.5).
+medida(banheiro,1.5, 2.0).
+
+Complemente o programa acima com a definição do predicado tamanho(Cômodo,Área) e
+faça as seguintes consultas:
+
+Qual área da cozinha?
+Que cômodos são maiores que a cozinha?
+Que cômodos são menores que a cozinha?
+É verdade que o tamanho da cozinha é o dobro do tamanho do banheiro? É verdade
+que a sala é o maior cômodo da casa?
+
+
+
