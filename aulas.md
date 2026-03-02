@@ -10,7 +10,7 @@ layout:
   tableOfContents:
     visible: true
   outline:
-    visible: false
+    visible: true
   pagination:
     visible: false
   metadata:
@@ -116,6 +116,10 @@ Algoritmo MinMax e aplicações em jogos e estratégias de decisão.
 17/04/2026\
 📝 **Prova 1º Bimestre**\
 Avaliação abrangendo conteúdos teóricos e práticos do primeiro bimestre e entrega do Estudo Dirigido.
+
+***
+
+
 
 ## 2º Bimestre
 
@@ -236,3 +240,8 @@ Prova de reposição conforme regulamento institucional.
 29/06/2026\
 🏁 **Prova Final**\
 Avaliação integrativa dos conteúdos do semestre.
+
+***
+
+
+

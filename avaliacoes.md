@@ -9,7 +9,7 @@ layout:
   tableOfContents:
     visible: true
   outline:
-    visible: false
+    visible: true
   pagination:
     visible: false
   metadata:
@@ -23,22 +23,26 @@ layout:
 ## Estudos dirigidos
 
 17/04/2026\
-📝 **ED 1: Análise comparativa de algoritmos de busca**
+📄 **ED 1: Análise comparativa de algoritmos de busca**
 
 ***
 
 19/06/2026\
-📝 **ED 2: Utilização de algoritmos genéticos para problemas de escalonamento**
+📄 **ED 2: Utilização de algoritmos genéticos para problemas de escalonamento**
+
+***
+
+
 
 ## Provas
 
 17/04/2026\
-📝 **Prova 1º Bimestre**
+✏️ **Prova 1º Bimestre**
 
 ***
 
 19/06/2026\
-📝 **Prova 2º Bimestre**
+✏️ **Prova 2º Bimestre**
 
 ***
 
@@ -49,4 +53,6 @@ layout:
 
 29/06/2026\
 🏁 **Prova Final**
+
+***
 
