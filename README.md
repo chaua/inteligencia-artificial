@@ -43,12 +43,8 @@ Neste curso, nós vamos estudar os conceitos fundamentais para o entendimento da
 
 ## Referências bibliográficas
 
-\[1] S. J. Russell & P. Norvig. **Artificial Intelligence: A Modern Approach.** Prentice Hall, 3rd edition, 2010.
-
-\[2] E. Rich e K. Knight. **Inteligência Artificial.** Makron Books, 1993.
-
-\[3] T. M. Mitchell. **Machine Learning.** McGraw–Hill Science/Engineering/Math, 1997.
-
-\[4] S. O. Rezende. **Sistemas Inteligentes: Fundamentos e Aplicações.** Barueri: Manole, 2003.
-
-\[5] M. Wooldridge. **An Introduction To Multiagent Systems.** Wiley, ISBN: 0470519460, 2009.
+1. S. J. Russell & P. Norvig. **Artificial Intelligence: A Modern Approach.** Prentice Hall, 3rd edition, 2010.
+2. E. Rich e K. Knight. **Inteligência Artificial.** Makron Books, 1993.
+3. T. M. Mitchell. **Machine Learning.** McGraw–Hill Science/Engineering/Math, 1997.
+4. S. O. Rezende. **Sistemas Inteligentes: Fundamentos e Aplicações.** Barueri: Manole, 2003.
+5. M. Wooldridge. **An Introduction To Multiagent Systems.** Wiley, ISBN: 0470519460, 2009.

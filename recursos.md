@@ -1,7 +1,7 @@
 ---
 noIndex: true
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:
@@ -9,7 +9,7 @@ layout:
   tableOfContents:
     visible: true
   outline:
-    visible: true
+    visible: false
   pagination:
     visible: false
   metadata:
@@ -22,4 +22,9 @@ layout:
 
 ## Bibliografia
 
-* RUSSEL, J.; NORVIG, P. **Artificial Intelligence: A Modern Approach.** Prentice Hall, 3rd edition, 2010. 📥 Download
+RUSSEL, J.; NORVIG, P. **Artificial Intelligence: A Modern Approach.** Prentice Hall, 3rd edition, 2010.&#x20;
+
+{% file src=".gitbook/assets/Artificial Intelligence A Modern Approach.pdf" %}
+
+
+
