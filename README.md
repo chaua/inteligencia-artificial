@@ -1,63 +1,54 @@
 ---
-description: Welcome to your team’s developer platform
+noIndex: true
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: false
+  metadata:
+    visible: false
+  tags:
+    visible: true
 ---
 
-# Developer Platform
+# 🏡 Apresentação
 
-<h2 align="center">Developer platform template</h2>
+## Introdução
 
-<p align="center">Welcome to your team’s new developer platform</p>
+A Inteligência Artificial (IA) é uma área de pesquisa da Ciência da Computação que estuda como realizar os comportamentos inteligentes dos seres humanos em um computador. O objetivo final da IA é fazer com que o computador possa aprender, planejar e resolver problemas de maneira autônoma. Embora a IA tenha sido estudada por mais de meio século, ainda não é possível criar um computador tão inteligentes como os seres humanos em todos os aspectos. Entretanto, é possível criar diversas aplicações bem sucedidas. Em alguns casos, um computador equipado com IA pode ser até mais inteligente que nós humanos.
 
-<p align="center"><a href="http://app.gitbook.com/join" class="button primary">Sign up</a> <a href="http://app.gitbook.com/join" class="button secondary">Log in</a></p>
+As principais áreas de estudo da IA incluem: resolução de problemas, raciocínio, planejamento, entendimento de linguagem natural, visão computacional, programação automática, aprendizado de máquina, entre outras.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h4><i class="fa-leaf">:leaf:</i></h4></td><td><strong>No code</strong></td><td>Get started with the developer platform in 5 minutes.</td><td><a href="https://template.gitbook.com/space-product-docs">https://template.gitbook.com/space-product-docs</a></td><td><a href=".gitbook/assets/no-code.jpg">no-code.jpg</a></td></tr><tr><td><h4><i class="fa-server">:server:</i></h4></td><td><strong>Hosted</strong></td><td>Learn more about hosting the developer platform.</td><td><a href="https://template.gitbook.com/space-product-docs">https://template.gitbook.com/space-product-docs</a></td><td><a href=".gitbook/assets/hosted.jpg">hosted.jpg</a></td></tr><tr><td><h4><i class="fa-terminal">:terminal:</i></h4></td><td><strong>API reference</strong></td><td>Browse, test, and implement APIs.</td><td><a href="https://template.gitbook.com/space-api-reference">https://template.gitbook.com/space-api-reference</a></td><td><a href=".gitbook/assets/api-reference.jpg">api-reference.jpg</a></td></tr></tbody></table>
+## Objetivos do curso
 
-{% columns %}
-{% column %}
-### Get started in 5 minutes
+Neste curso, nós vamos estudar os conceitos fundamentais para o entendimento da IA. Os tópicos estudados serão:
 
-Setting up your first API call should be the easiest part of getting started. With clear endpoints, copy-paste-ready examples, and quick authentication, you’ll be up and running in minutes—not hours.
+* Introdução à I.A.
+* Introdução a Agentes Inteligentes
+* Resolução de Problemas por meio de Busca
+  * Busca Heurística (Busca Gulosa, A\*, Hill Climbing, Simulated Annealing)
+  * Busca Competitiva (Minimax)
+* Conhecimento e Raciocínio
+  * Lógica de Primeira Ordem
+  * Programação em Lógica (Prolog)
+  * Inferência em Lógica de Primeira Ordem
+* Conhecimento Incerto e Raciocínio (Redes Bayesianas, Modelos Ocultos de Markov)
 
-No guesswork, no complexity—just your first successful call, fast.
+## Referências bibliográficas
 
-<a href="https://template.gitbook.com/space-product-docs" class="button primary" data-icon="rocket-launch">Get started</a> <a href="https://template.gitbook.com/space-api-reference" class="button secondary" data-icon="terminal">API reference</a>
-{% endcolumn %}
+\[1] S. J. Russell & P. Norvig. **Artificial Intelligence: A Modern Approach.** Prentice Hall, 3rd edition, 2010.
 
-{% column %}
-{% code title="index.js" overflow="wrap" %}
-```javascript
-// Import the SDK
-import ExampleAPI from "example-api";
+\[2] E. Rich e K. Knight. **Inteligência Artificial.** Makron Books, 1993.
 
-// Initialize the client
-const client = new ExampleAPI({ apiKey: "YOUR_API_KEY" });
+\[3] T. M. Mitchell. **Machine Learning.** McGraw–Hill Science/Engineering/Math, 1997.
 
-// Send your first message
-const response = await client.messages.send({
-  message: "Hello, world!"
-});
+\[4] S. O. Rezende. **Sistemas Inteligentes: Fundamentos e Aplicações.** Barueri: Manole, 2003.
 
-```
-{% endcode %}
-{% endcolumn %}
-{% endcolumns %}
-
-{% columns %}
-{% column %}
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/placeholder.png" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
-
-{% column %}
-### Learn more about the developer platform
-
-Read guides, watch tutorials, and learn more about working with the developer platform and integrating it with your own stack.
-
-<a href="https://template.gitbook.com/space-help-center" class="button primary" data-icon="book-open">Guides</a> <a href="https://template.gitbook.com/space-product-docs" class="button secondary" data-icon="book">Documentation</a>
-{% endcolumn %}
-{% endcolumns %}
-
-<h2 align="center">Join a community of over 3,000 developers</h2>
-
-<p align="center">Join our Discord community or create your first PR in just a few steps.</p>
-
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h4><i class="fa-discord">:discord:</i></h4></td><td><strong>Discord community</strong></td><td>Join our Discord community to post questions, get help, and share resources with over 3,000 like-minded developers.</td><td><a href="https://www.gitbook.com/" class="button secondary">Join Discord</a></td><td></td></tr><tr><td><h4><i class="fa-github">:github:</i></h4></td><td><strong>GitHub</strong></td><td>Our product is 100% open source and built by developers just like you. Head to our GitHub repository to learn how to submit your first PR.</td><td><a href="https://www.gitbook.com/" class="button secondary">Submit a PR</a></td><td></td></tr></tbody></table>
+\[5] M. Wooldridge. **An Introduction To Multiagent Systems.** Wiley, ISBN: 0470519460, 2009.

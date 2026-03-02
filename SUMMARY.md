@@ -1,3 +1,7 @@
 # Table of contents
 
-* [Developer Platform](README.md)
+* [🏡 Apresentação](README.md)
+* [📖 Plano de aulas](aulas.md)
+* [📝 Avaliações](avaliacoes.md)
+* [📂 Projetos](projetos.md)
+* [📚 Recursos](recursos.md)
