@@ -51,6 +51,8 @@ Principais marcos históricos e evolução da IA até os dias atuais.
 📕 **Aula 04: Agentes Inteligentes**\
 Conceitos, tipos de agentes e aplicações práticas.
 
+{% file src=".gitbook/assets/Aula04 - Conceito de agentes inteligentes.key.pdf" %}
+
 ***
 
 13/03/2026\
