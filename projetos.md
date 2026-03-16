@@ -1,6 +1,7 @@
 ---
 hidden: true
 noIndex: true
+icon: folders
 layout:
   width: wide
   title:
@@ -19,5 +20,5 @@ layout:
     visible: true
 ---
 
-# 📂 Projetos
+# Projetos
 

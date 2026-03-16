@@ -1,5 +1,6 @@
 ---
 noIndex: true
+icon: memo-circle-check
 layout:
   width: default
   title:
@@ -18,17 +19,17 @@ layout:
     visible: true
 ---
 
-# 📝 Avaliações
+# Avaliações
 
 ## Estudos dirigidos
 
-17/04/2026\
-📄 **ED 1: Análise comparativa de algoritmos de busca**
+<mark style="color:$info;">17/04/2026</mark>\
+<i class="fa-memo">:memo:</i> **ED 1: Análise comparativa de algoritmos de busca**
 
 ***
 
-19/06/2026\
-📄 **ED 2: Utilização de algoritmos genéticos para problemas de escalonamento**
+<mark style="color:$info;">19/06/2026</mark>\
+<i class="fa-memo">:memo:</i> **ED 2: Utilização de algoritmos genéticos para problemas de escalonamento**
 
 ***
 
@@ -36,23 +37,23 @@ layout:
 
 ## Provas
 
-17/04/2026\
-✏️ **Prova 1º Bimestre**
+<mark style="color:$info;">17/04/2026</mark>\
+<i class="fa-pencil-line">:pencil-line:</i> **Prova 1º Bimestre**
 
 ***
 
-19/06/2026\
-✏️ **Prova 2º Bimestre**
+<mark style="color:$info;">19/06/2026</mark>\
+<i class="fa-pencil-line">:pencil-line:</i> **Prova 2º Bimestre**
 
 ***
 
-22/06/2026\
-🔁 **Segunda Chamada – 1º e 2º Bimestres**
+<mark style="color:$info;">22/06/2026</mark>\
+<i class="fa-pen-line">:pen-line:</i> **Segunda Chamada – 1º e 2º Bimestres**
 
 ***
 
-29/06/2026\
-🏁 **Prova Final**
+<mark style="color:$info;">29/06/2026</mark>\
+<i class="fa-flag-checkered">:flag-checkered:</i> **Prova Final**
 
 ***
 

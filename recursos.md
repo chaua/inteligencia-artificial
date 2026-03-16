@@ -1,5 +1,6 @@
 ---
 noIndex: true
+icon: books
 layout:
   width: default
   title:
@@ -18,7 +19,7 @@ layout:
     visible: true
 ---
 
-# 📚 Recursos
+# Recursos
 
 ## Bibliografia
 

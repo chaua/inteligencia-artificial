@@ -1,5 +1,6 @@
 ---
 noIndex: true
+icon: house
 layout:
   width: default
   title:
@@ -18,7 +19,7 @@ layout:
     visible: true
 ---
 
-# 🏡 Apresentação
+# Apresentação
 
 ## Introdução
 

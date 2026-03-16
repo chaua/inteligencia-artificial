@@ -1,6 +1,7 @@
 ---
 description: Cronograma organizado com conteúdos, atividades e metodologia da disciplina.
 noIndex: true
+icon: book-open-lines
 layout:
   width: default
   title:
@@ -19,104 +20,114 @@ layout:
     visible: true
 ---
 
-# 📖 Plano de aulas
+# Plano de aulas
 
 ## 1º Bimestre
 
-23/02/2026\
-📕 **Apresentação da disciplina**\
+<mark style="color:$info;">23/02/2026</mark>\
+<i class="fa-book-blank">:book-blank:</i> **Apresentação da disciplina**\
 Apresentação do Plano de Ensino, Plano de Aula e Plano de Estudo Dirigido. Introdução à disciplina, funcionamento dos Estudos Dirigidos (ED 1 e ED 2) e critérios de avaliação.
 
+{% file src=".gitbook/assets/Aula00 - Apresentação da disciplina.pdf" %}
+
 ***
 
-27/02/2026\
-📕 **Aula 01: Escrita Científica**\
+<mark style="color:$info;">27/02/2026</mark>\
+<i class="fa-book-blank">:book-blank:</i> **Aula 01: Escrita Científica**\
 Fundamentos da escrita científica em trabalhos acadêmicos. Normas e boas práticas.
 
+{% file src=".gitbook/assets/Aula01 - Escrita científica.pdf" %}
+
 ***
 
-02/03/2026\
-📕 **Aula 02: Introdução à IA**\
+<mark style="color:$info;">02/03/2026</mark>\
+<i class="fa-book-blank">:book-blank:</i> **Aula 02: Introdução à IA**\
 Conceito, história, evolução e impacto social da Inteligência Artificial.
 
+{% file src=".gitbook/assets/Aula02 - Fundamentos da IA.pdf" %}
+
 ***
 
-06/03/2026\
-📕 **Aula 03: História da IA**\
+<mark style="color:$info;">06/03/2026</mark>\
+<i class="fa-book-blank">:book-blank:</i> **Aula 03: História da IA**\
 Principais marcos históricos e evolução da IA até os dias atuais.
 
+{% file src=".gitbook/assets/Aula03 - História e aplicações da IA.pdf" %}
+
 ***
 
-09/03/2026\
-📕 **Aula 04: Agentes Inteligentes**\
+<mark style="color:$info;">09/03/2026</mark>\
+<i class="fa-book-blank">:book-blank:</i> **Aula 04: Agentes Inteligentes**\
 Conceitos, tipos de agentes e aplicações práticas.
 
-{% file src=".gitbook/assets/Aula04 - Conceito de agentes inteligentes.key.pdf" %}
+{% file src=".gitbook/assets/Aula04 - Conceito de agentes inteligentes.pdf" %}
 
 ***
 
-13/03/2026\
-📕 **Aula 05: Ambientes e Problemas de Busca**\
+<mark style="color:$info;">13/03/2026</mark>\
+<i class="fa-book-blank">:book-blank:</i> **Aula 05: Ambientes e Problemas de Busca**\
 Estruturas de problemas, espaços de estados e ambientes de busca.
 
+{% file src=".gitbook/assets/Aula05 - Resolução de problemas por meio de busca.pdf" %}
+
 ***
 
-16/03/2026\
-📕 **Aula 06: Busca sem Informação**\
+<mark style="color:$info;">16/03/2026</mark>\
+<i class="fa-book-blank">:book-blank:</i> **Aula 06: Busca sem Informação**\
 Algoritmos de busca em largura, profundidade e aprofundamento iterativo.
 
 ***
 
-20/03/2026\
-💻 **Oficina: Busca sem Informação**\
+<mark style="color:$info;">20/03/2026</mark>\
+<i class="fa-desktop">:desktop:</i> **Oficina: Busca sem Informação**\
 Implementação prática dos algoritmos de busca sem informação.
 
 ***
 
-23/03/2026\
-📕 **Aula 07: Busca Informada**\
+<mark style="color:$info;">23/03/2026</mark>\
+<i class="fa-book-blank">:book-blank:</i> **Aula 07: Busca Informada**\
 Algoritmos A\* e Busca Gulosa. Comparação e aplicações.
 
 ***
 
-27/03/2026\
-💻 **Oficina: Busca Informada**\
+<mark style="color:$info;">27/03/2026</mark>\
+<i class="fa-desktop">:desktop:</i> **Oficina: Busca Informada**\
 Desenvolvimento de algoritmos de busca informada.
 
 ***
 
-30/03/2026\
-📕 **Aula 08: Busca Local – Parte 1**\
+<mark style="color:$info;">30/03/2026</mark>\
+<i class="fa-book-blank">:book-blank:</i> **Aula 08: Busca Local – Parte 1**\
 Conceitos e introdução ao Hill Climbing e Simulated Annealing.
 
 ***
 
-03/04/2026\
-🎉 **Feriado – Sexta-feira Santa**\
+<mark style="color:$info;">03/04/2026</mark>\
+<i class="fa-umbrella-beach">:umbrella-beach:</i> **Feriado – Sexta-feira Santa**\
 Atividade: Lista de Exercícios – Busca Local.
 
 ***
 
-06/04/2026\
-📕 **Aula 09: Busca Local – Parte 2**\
+<mark style="color:$info;">06/04/2026</mark>\
+<i class="fa-book-blank">:book-blank:</i> **Aula 09: Busca Local – Parte 2**\
 Aplicação avançada de técnicas de busca local e heurísticas.
 
 ***
 
-10/04/2026\
-💻 **Oficina 03: Busca Local**\
+<mark style="color:$info;">10/04/2026</mark>\
+<i class="fa-desktop">:desktop:</i> **Oficina 03: Busca Local**\
 Implementação de Hill Climbing e Simulated Annealing.
 
 ***
 
-13/04/2026\
-📕 **Aula 10: Busca Competitiva**\
+<mark style="color:$info;">13/04/2026</mark>\
+<i class="fa-book-blank">:book-blank:</i> **Aula 10: Busca Competitiva**\
 Algoritmo MinMax e aplicações em jogos e estratégias de decisão.
 
 ***
 
-17/04/2026\
-📝 **Prova 1º Bimestre**\
+<mark style="color:$info;">17/04/2026</mark>\
+<i class="fa-pencil-line">:pencil-line:</i> **Prova 1º Bimestre**\
 Avaliação abrangendo conteúdos teóricos e práticos do primeiro bimestre e entrega do Estudo Dirigido.
 
 ***
@@ -125,122 +136,122 @@ Avaliação abrangendo conteúdos teóricos e práticos do primeiro bimestre e e
 
 ## 2º Bimestre
 
-20/04/2026\
-📖 **Recesso – Tiradentes**\
+<mark style="color:$info;">20/04/2026</mark>\
+<i class="fa-umbrella-beach">:umbrella-beach:</i> **Recesso – Tiradentes**\
 Atividade: Leitura Dirigida – Metaheurísticas.
 
 ***
 
-24/04/2026\
-📕 **Aula 11: Metaheurísticas**\
+<mark style="color:$info;">24/04/2026</mark>\
+<i class="fa-book-blank">:book-blank:</i> **Aula 11: Metaheurísticas**\
 Conceitos e princípios das metaheurísticas e sua importância na IA.
 
 ***
 
-27/04/2026\
-📕 **Aula 12: Computação Evolutiva**\
+<mark style="color:$info;">27/04/2026</mark>\
+<i class="fa-book-blank">:book-blank:</i> **Aula 12: Computação Evolutiva**\
 Fundamentos de computação evolutiva e introdução aos algoritmos genéticos.
 
 ***
 
-01/05/2026\
-🎉 **Feriado – Dia do Trabalhador**\
+<mark style="color:$info;">01/05/2026</mark>\
+<i class="fa-umbrella-beach">:umbrella-beach:</i> **Feriado – Dia do Trabalhador**\
 Atividade: Lista de Exercícios – Algoritmos Genéticos (Teórica).
 
 ***
 
-04/05/2026\
-📕 **Aula 13: Algoritmos Genéticos – Parte 1**\
+<mark style="color:$info;">04/05/2026</mark>\
+<i class="fa-book-blank">:book-blank:</i> **Aula 13: Algoritmos Genéticos – Parte 1**\
 Fundamentos e operadores genéticos.
 
 ***
 
-08/05/2026\
-💻 **Oficina: Algoritmos Genéticos**\
+<mark style="color:$info;">08/05/2026</mark>\
+<i class="fa-desktop">:desktop:</i> **Oficina: Algoritmos Genéticos**\
 Implementação de algoritmo genético para otimização.
 
 ***
 
-11/05/2026\
-📕 **Aula 14: Algoritmos Genéticos – Parte 2**\
+<mark style="color:$info;">11/05/2026</mark>\
+<i class="fa-book-blank">:book-blank:</i> **Aula 14: Algoritmos Genéticos – Parte 2**\
 Variações e aplicações dos algoritmos genéticos.
 
 ***
 
-15/05/2026\
-💻 **Oficina: Algoritmos Genéticos**\
+<mark style="color:$info;">15/05/2026</mark>\
+<i class="fa-desktop">:desktop:</i> **Oficina: Algoritmos Genéticos**\
 Aprimoramento da implementação para otimização.
 
 ***
 
-18/05/2026\
-📕 **Aula 15: Inteligência em Enxames**\
+<mark style="color:$info;">18/05/2026</mark>\
+<i class="fa-book-blank">:book-blank:</i> **Aula 15: Inteligência em Enxames**\
 Conceitos e aplicações das técnicas PSO e ACO.
 
 ***
 
-22/05/2026\
-💻 **Oficina: PSO**\
+<mark style="color:$info;">22/05/2026</mark>\
+<i class="fa-desktop">:desktop:</i> **Oficina: PSO**\
 Codificação e teste do algoritmo Particle Swarm Optimization.
 
 ***
 
-25/05/2026\
-🎓 **Semana Acadêmica**\
+<mark style="color:$info;">25/05/2026</mark>\
+<i class="fa-graduation-cap">:graduation-cap:</i> **Semana Acadêmica**\
 Participação em palestras e eventos da área de computação.
 
 ***
 
-29/05/2026\
-🎓 **Semana Acadêmica**\
+<mark style="color:$info;">29/05/2026</mark>\
+<i class="fa-graduation-cap">:graduation-cap:</i> **Semana Acadêmica**\
 Participação em palestras e eventos da área de computação.
 
 ***
 
-01/06/2026\
-📕 **Aula 16: Introdução ao Raciocínio Lógico**\
+<mark style="color:$info;">01/06/2026</mark>\
+<i class="fa-book-blank">:book-blank:</i> **Aula 16: Introdução ao Raciocínio Lógico**\
 Fundamentos da lógica aplicada à IA.
 
 ***
 
-05/06/2026\
-📖 **Recesso – Corpus Christi**\
+<mark style="color:$info;">05/06/2026</mark>\
+<i class="fa-umbrella-beach">:umbrella-beach:</i> **Recesso – Corpus Christi**\
 Atividade: Leitura Dirigida – Programação Lógica.
 
 ***
 
-08/06/2026\
-📕 **Aula 17: Introdução à Programação Lógica**\
+<mark style="color:$info;">08/06/2026</mark>\
+<i class="fa-book-blank">:book-blank:</i> **Aula 17: Introdução à Programação Lógica**\
 Fundamentos e sintaxe da linguagem Prolog.
 
 ***
 
-12/06/2026\
-📕 **Aula 18: Programação em Prolog**\
+<mark style="color:$info;">12/06/2026</mark>\
+<i class="fa-book-blank">:book-blank:</i> **Aula 18: Programação em Prolog**\
 Representação de conhecimento e inferência.
 
 ***
 
-15/06/2026\
-💻 **Oficina: Programação em Prolog**\
+<mark style="color:$info;">15/06/2026</mark>\
+<i class="fa-desktop">:desktop:</i> **Oficina: Programação em Prolog**\
 Implementação de regras e bases de conhecimento.
 
 ***
 
-19/06/2026\
-📝 **Prova 2º Bimestre**\
+<mark style="color:$info;">19/06/2026</mark>\
+<i class="fa-pencil-line">:pencil-line:</i> **Prova 2º Bimestre**\
 Avaliação abrangendo conteúdos teóricos e práticos do segundo bimestre e entrega do Estudo Dirigido.
 
 ***
 
-22/06/2026\
-🔁 **Segunda Chamada – 1º e 2º Bimestres**\
+<mark style="color:$info;">22/06/2026</mark>\
+<i class="fa-pen-line">:pen-line:</i> **Segunda Chamada – 1º e 2º Bimestres**\
 Prova de reposição conforme regulamento institucional.
 
 ***
 
-29/06/2026\
-🏁 **Prova Final**\
+<mark style="color:$info;">29/06/2026</mark>\
+<i class="fa-flag-checkered">:flag-checkered:</i> **Prova Final**\
 Avaliação integrativa dos conteúdos do semestre.
 
 ***
