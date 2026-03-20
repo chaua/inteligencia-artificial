@@ -76,6 +76,8 @@ Estruturas de problemas, espaços de estados e ambientes de busca.
 <i class="fa-book-blank">:book-blank:</i> **Aula 06: Busca sem Informação**\
 Algoritmos de busca em largura, profundidade e aprofundamento iterativo.
 
+{% file src=".gitbook/assets/Aula06 - Busca sem informação.pdf" %}
+
 ***
 
 <mark style="color:$info;">20/03/2026</mark>\
