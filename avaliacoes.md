@@ -26,6 +26,8 @@ layout:
 <mark style="color:$info;">17/04/2026</mark>\
 <i class="fa-memo">:memo:</i> **ED 1: Análise comparativa de algoritmos de busca**
 
+{% file src=".gitbook/assets/ED1 - Análise de Algoritmos de Busca.pdf" %}
+
 ***
 
 <mark style="color:$info;">19/06/2026</mark>\

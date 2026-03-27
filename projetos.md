@@ -1,5 +1,4 @@
 ---
-hidden: true
 noIndex: true
 icon: folders
 layout:
@@ -22,3 +21,4 @@ layout:
 
 # Projetos
 
+* [01\_busca\_sem\_informacao.ipynb](https://github.com/chaua/inteligencia-artificial/blob/main/notebooks/01_busca_sem_informacao.ipynb)
