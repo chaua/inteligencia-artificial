@@ -90,6 +90,8 @@ Implementação prática dos algoritmos de busca sem informação.
 <i class="fa-book-blank">:book-blank:</i> **Aula 07: Busca Informada**\
 Algoritmos A\* e Busca Gulosa. Comparação e aplicações.
 
+{% file src=".gitbook/assets/Aula07 - Estratégias de busca com informação.pdf" %}
+
 ***
 
 <mark style="color:$info;">27/03/2026</mark>\
