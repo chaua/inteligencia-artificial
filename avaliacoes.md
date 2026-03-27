@@ -28,6 +28,8 @@ layout:
 
 {% file src=".gitbook/assets/ED1 - Análise de Algoritmos de Busca.pdf" %}
 
+{% file src=".gitbook/assets/template-artigo.zip" %}
+
 ***
 
 <mark style="color:$info;">19/06/2026</mark>\
