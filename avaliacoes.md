@@ -26,9 +26,7 @@ layout:
 <mark style="color:$info;">17/04/2026</mark>\
 <i class="fa-memo">:memo:</i> **ED 1: Análise comparativa de algoritmos de busca**
 
-{% file src=".gitbook/assets/ED1 - Análise de Algoritmos de Busca.pdf" %}
-
-{% file src=".gitbook/assets/template-artigo.zip" %}
+[download](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/ED1%20-%20Ana%CC%81lise%20de%20Algoritmos%20de%20Busca.pdf) | [template](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/template-artigo.zip)&#x20;
 
 ***
 

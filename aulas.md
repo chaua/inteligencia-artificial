@@ -28,7 +28,7 @@ layout:
 <i class="fa-book-blank">:book-blank:</i> **Apresentação da disciplina**\
 Apresentação do Plano de Ensino, Plano de Aula e Plano de Estudo Dirigido. Introdução à disciplina, funcionamento dos Estudos Dirigidos (ED 1 e ED 2) e critérios de avaliação.
 
-{% file src=".gitbook/assets/Aula00 - Apresentação da disciplina.pdf" %}
+[slides](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/Aula00%20-%20Apresentac%CC%A7a%CC%83o%20da%20disciplina.pdf)
 
 ***
 
@@ -36,7 +36,7 @@ Apresentação do Plano de Ensino, Plano de Aula e Plano de Estudo Dirigido. Int
 <i class="fa-book-blank">:book-blank:</i> **Aula 01: Escrita Científica**\
 Fundamentos da escrita científica em trabalhos acadêmicos. Normas e boas práticas.
 
-{% file src=".gitbook/assets/Aula01 - Escrita científica.pdf" %}
+[slides](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/Aula00%20-%20Apresentac%CC%A7a%CC%83o%20da%20disciplina.pdf)
 
 ***
 
@@ -44,7 +44,7 @@ Fundamentos da escrita científica em trabalhos acadêmicos. Normas e boas prát
 <i class="fa-book-blank">:book-blank:</i> **Aula 02: Introdução à IA**\
 Conceito, história, evolução e impacto social da Inteligência Artificial.
 
-{% file src=".gitbook/assets/Aula02 - Fundamentos da IA.pdf" %}
+[slides](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/Aula02%20-%20Fundamentos%20da%20IA.pdf)
 
 ***
 
@@ -52,7 +52,7 @@ Conceito, história, evolução e impacto social da Inteligência Artificial.
 <i class="fa-book-blank">:book-blank:</i> **Aula 03: História da IA**\
 Principais marcos históricos e evolução da IA até os dias atuais.
 
-{% file src=".gitbook/assets/Aula03 - História e aplicações da IA.pdf" %}
+[slides](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/Aula03%20-%20Histo%CC%81ria%20e%20aplicac%CC%A7o%CC%83es%20da%20IA.pdf)
 
 ***
 
@@ -60,7 +60,7 @@ Principais marcos históricos e evolução da IA até os dias atuais.
 <i class="fa-book-blank">:book-blank:</i> **Aula 04: Agentes Inteligentes**\
 Conceitos, tipos de agentes e aplicações práticas.
 
-{% file src=".gitbook/assets/Aula04 - Conceito de agentes inteligentes.pdf" %}
+[slides](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/Aula04%20-%20Conceito%20de%20agentes%20inteligentes.pdf)
 
 ***
 
@@ -68,7 +68,7 @@ Conceitos, tipos de agentes e aplicações práticas.
 <i class="fa-book-blank">:book-blank:</i> **Aula 05: Ambientes e Problemas de Busca**\
 Estruturas de problemas, espaços de estados e ambientes de busca.
 
-{% file src=".gitbook/assets/Aula05 - Resolução de problemas por meio de busca.pdf" %}
+[slides](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/Aula05%20-%20Resoluc%CC%A7a%CC%83o%20de%20problemas%20por%20meio%20de%20busca.pdf)
 
 ***
 
@@ -76,7 +76,7 @@ Estruturas de problemas, espaços de estados e ambientes de busca.
 <i class="fa-book-blank">:book-blank:</i> **Aula 06: Busca sem Informação**\
 Algoritmos de busca em largura, profundidade e aprofundamento iterativo.
 
-{% file src=".gitbook/assets/Aula06 - Busca sem informação.pdf" %}
+[slides](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/Aula06%20-%20Busca%20sem%20informac%CC%A7a%CC%83o.pdf)
 
 ***
 
@@ -90,7 +90,7 @@ Implementação prática dos algoritmos de busca sem informação.
 <i class="fa-book-blank">:book-blank:</i> **Aula 07: Busca Informada**\
 Algoritmos A\* e Busca Gulosa. Comparação e aplicações.
 
-{% file src=".gitbook/assets/Aula07 - Estratégias de busca com informação.pdf" %}
+[slides](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/Aula07%20-%20Estrate%CC%81gias%20de%20busca%20com%20informac%CC%A7a%CC%83o.pdf)
 
 ***
 
@@ -104,17 +104,23 @@ Desenvolvimento de algoritmos de busca informada.
 <i class="fa-book-blank">:book-blank:</i> **Aula 08: Busca Local – Parte 1**\
 Conceitos e introdução ao Hill Climbing e Simulated Annealing.
 
+[slides](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/Aula08%20-%20Estrate%CC%81gias%20de%20busca%20local.pdf)
+
 ***
 
 <mark style="color:$info;">03/04/2026</mark>\
 <i class="fa-umbrella-beach">:umbrella-beach:</i> **Feriado – Sexta-feira Santa**\
 Atividade: Lista de Exercícios – Busca Local.
 
+[atividade](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/Atividade%20-%20Busca%20local.pdf)
+
 ***
 
 <mark style="color:$info;">06/04/2026</mark>\
 <i class="fa-book-blank">:book-blank:</i> **Aula 09: Busca Local – Parte 2**\
 Aplicação avançada de técnicas de busca local e heurísticas.
+
+[slides](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/Aula09%20-%20Aplicac%CC%A7a%CC%83o%20das%20estrate%CC%81gias%20de%20busca%20local.pdf)
 
 ***
 
@@ -128,11 +134,15 @@ Implementação de Hill Climbing e Simulated Annealing.
 <i class="fa-book-blank">:book-blank:</i> **Aula 10: Busca Competitiva**\
 Algoritmo MinMax e aplicações em jogos e estratégias de decisão.
 
+slides
+
 ***
 
 <mark style="color:$info;">17/04/2026</mark>\
 <i class="fa-pencil-line">:pencil-line:</i> **Prova 1º Bimestre**\
 Avaliação abrangendo conteúdos teóricos e práticos do primeiro bimestre e entrega do Estudo Dirigido.
+
+gabarito
 
 ***
 

@@ -25,7 +25,9 @@ layout:
 
 RUSSEL, J.; NORVIG, P. **Artificial Intelligence: A Modern Approach.** Prentice Hall, 3rd edition, 2010.&#x20;
 
-{% file src=".gitbook/assets/Artificial Intelligence A Modern Approach.pdf" %}
+[download](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/Artificial%20Intelligence%20A%20Modern%20Approach.pdf)
+
+
 
 
 
