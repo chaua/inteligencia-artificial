@@ -128,6 +128,8 @@ Aplicação avançada de técnicas de busca local e heurísticas.
 <i class="fa-desktop">:desktop:</i> **Oficina 03: Busca Local**\
 Implementação de Hill Climbing e Simulated Annealing.
 
+[atividade](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/Oficina%20-%20Busca%20local%20+%20PCV.pdf) | [arquivos](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/pcv.zip)
+
 ***
 
 <mark style="color:$info;">13/04/2026</mark>\
