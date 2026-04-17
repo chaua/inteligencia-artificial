@@ -144,7 +144,7 @@ Algoritmo MinMax e aplicações em jogos e estratégias de decisão.
 <i class="fa-pencil-line">:pencil-line:</i> **Prova 1º Bimestre**\
 Avaliação abrangendo conteúdos teóricos e práticos do primeiro bimestre e entrega do Estudo Dirigido.
 
-[prova01-2025](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/prova01-2025.pdf) |&#x20;
+[prova01-2025](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/prova01-2025.pdf) | [prova01-2026](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/prova01-2025.pdf)
 
 ***
 

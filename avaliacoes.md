@@ -42,6 +42,8 @@ layout:
 <mark style="color:$info;">17/04/2026</mark>\
 <i class="fa-pencil-line">:pencil-line:</i> **Prova 1º Bimestre**
 
+[prova01-2026](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/prova01-2025.pdf)
+
 ***
 
 <mark style="color:$info;">19/06/2026</mark>\
