@@ -170,7 +170,7 @@ Fundamentos de computação evolutiva e introdução aos algoritmos genéticos.
 <i class="fa-book">:book:</i> **Aula 12: Algoritmos Genéticos**\
 Fundamentos dos algoritmos genéticos.
 
-slides
+[slides](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/Aula12%20-%20Algoritmos%20Gene%CC%81ticos%20-%20conceitos%20gerais.pdf)
 
 ***
 
@@ -189,8 +189,10 @@ Operadores de seleção, recombinação e mutação
 ***
 
 08/05/2026\
-<i class="fa-desktop" style="color:blue;">:desktop:</i> **Oficina: Algoritmos Genéticos**\
-Implementação de algoritmo genético para otimização.
+<i class="fa-desktop" style="color:blue;">:desktop:</i> ~~**Oficina: Algoritmos Genéticos**~~\
+~~Implementação de algoritmo genético para otimização.~~
+
+Atividade remota: implementação de algoritmo genético&#x20;
 
 ***
 
