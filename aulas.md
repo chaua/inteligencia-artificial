@@ -81,7 +81,7 @@ Algoritmos de busca em largura, profundidade e aprofundamento iterativo.
 ***
 
 20/03/2026\
-<i class="fa-desktop">:desktop:</i> **Oficina: Busca sem Informação**\
+<i class="fa-desktop" style="color:blue;">:desktop:</i> **Oficina: Busca sem Informação**\
 Implementação prática dos algoritmos de busca sem informação.
 
 ***
@@ -95,7 +95,7 @@ Algoritmos A\* e Busca Gulosa. Comparação e aplicações.
 ***
 
 27/03/2026\
-<i class="fa-desktop">:desktop:</i> **Oficina: Busca Informada**\
+<i class="fa-desktop" style="color:blue;">:desktop:</i> **Oficina: Busca Informada**\
 Desenvolvimento de algoritmos de busca informada.
 
 ***
@@ -109,7 +109,7 @@ Conceitos e introdução ao Hill Climbing e Simulated Annealing.
 ***
 
 03/04/2026\
-<i class="fa-umbrella-beach">:umbrella-beach:</i> **Feriado – Sexta-feira Santa**\
+<i class="fa-umbrella-beach" style="color:green;">:umbrella-beach:</i> **Feriado – Sexta-feira Santa**\
 Atividade: Lista de Exercícios – Busca Local.
 
 [atividade](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/Atividade%20-%20Busca%20local.pdf)
@@ -125,7 +125,7 @@ Aplicação avançada de técnicas de busca local e heurísticas.
 ***
 
 10/04/2026\
-<i class="fa-desktop">:desktop:</i> **Oficina 03: Busca Local**\
+<i class="fa-desktop" style="color:blue;">:desktop:</i> **Oficina 03: Busca Local**\
 Implementação de Hill Climbing e Simulated Annealing.
 
 [atividade](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/Oficina%20-%20Busca%20local%20+%20PCV.pdf) | [arquivos](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/pcv.zip)
@@ -153,37 +153,43 @@ Avaliação abrangendo conteúdos teóricos e práticos do primeiro bimestre e e
 ## 2º Bimestre
 
 20/04/2026\
-<i class="fa-umbrella-beach">:umbrella-beach:</i> **Recesso – Tiradentes**\
+<i class="fa-umbrella-beach" style="color:green;">:umbrella-beach:</i> **Recesso – Tiradentes**\
 Atividade: Leitura Dirigida – Metaheurísticas.
 
 ***
 
 24/04/2026\
-<i class="fa-book">:book:</i> **Aula 11: Metaheurísticas**\
-Conceitos e princípios das metaheurísticas e sua importância na IA.
+<i class="fa-book">:book:</i> **Aula 11: Computação Evolutiva**\
+Fundamentos de computação evolutiva e introdução aos algoritmos genéticos.
+
+[slides](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/Aula10%20-%20Busca%20competitiva.pdf)
 
 ***
 
 27/04/2026\
-<i class="fa-book">:book:</i> **Aula 12: Computação Evolutiva**\
-Fundamentos de computação evolutiva e introdução aos algoritmos genéticos.
+<i class="fa-book">:book:</i> **Aula 12: Algoritmos Genéticos**\
+Fundamentos dos algoritmos genéticos.
+
+[slides](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/Aula10%20-%20Busca%20competitiva.pdf)
 
 ***
 
 01/05/2026\
-<i class="fa-umbrella-beach">:umbrella-beach:</i> **Feriado – Dia do Trabalhador**\
+<i class="fa-umbrella-beach" style="color:green;">:umbrella-beach:</i> **Feriado – Dia do Trabalhador**\
 Atividade: Lista de Exercícios – Algoritmos Genéticos (Teórica).
 
 ***
 
 04/05/2026\
 <i class="fa-book">:book:</i> **Aula 13: Algoritmos Genéticos – Parte 1**\
-Fundamentos e operadores genéticos.
+Operadores de seleção, recombinação e mutação
+
+[slides](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/Aula10%20-%20Busca%20competitiva.pdf)
 
 ***
 
 08/05/2026\
-<i class="fa-desktop">:desktop:</i> **Oficina: Algoritmos Genéticos**\
+<i class="fa-desktop" style="color:blue;">:desktop:</i> **Oficina: Algoritmos Genéticos**\
 Implementação de algoritmo genético para otimização.
 
 ***
@@ -192,10 +198,12 @@ Implementação de algoritmo genético para otimização.
 <i class="fa-book">:book:</i> **Aula 14: Algoritmos Genéticos – Parte 2**\
 Variações e aplicações dos algoritmos genéticos.
 
+[slides](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/Aula10%20-%20Busca%20competitiva.pdf)
+
 ***
 
 15/05/2026\
-<i class="fa-desktop">:desktop:</i> **Oficina: Algoritmos Genéticos**\
+<i class="fa-desktop" style="color:blue;">:desktop:</i> **Oficina: Algoritmos Genéticos**\
 Aprimoramento da implementação para otimização.
 
 ***
@@ -207,19 +215,19 @@ Conceitos e aplicações das técnicas PSO e ACO.
 ***
 
 22/05/2026\
-<i class="fa-desktop">:desktop:</i> **Oficina: PSO**\
+<i class="fa-desktop" style="color:blue;">:desktop:</i> **Oficina: PSO**\
 Codificação e teste do algoritmo Particle Swarm Optimization.
 
 ***
 
 25/05/2026\
-<i class="fa-graduation-cap">:graduation-cap:</i> **Semana Acadêmica**\
+<i class="fa-graduation-cap" style="color:$warning;">:graduation-cap:</i> **Semana Acadêmica**\
 Participação em palestras e eventos da área de computação.
 
 ***
 
 29/05/2026\
-<i class="fa-graduation-cap">:graduation-cap:</i> **Semana Acadêmica**\
+<i class="fa-graduation-cap" style="color:$warning;">:graduation-cap:</i> **Semana Acadêmica**\
 Participação em palestras e eventos da área de computação.
 
 ***
@@ -231,7 +239,7 @@ Fundamentos da lógica aplicada à IA.
 ***
 
 05/06/2026\
-<i class="fa-umbrella-beach">:umbrella-beach:</i> **Recesso – Corpus Christi**\
+<i class="fa-umbrella-beach" style="color:green;">:umbrella-beach:</i> **Recesso – Corpus Christi**\
 Atividade: Leitura Dirigida – Programação Lógica.
 
 ***
@@ -249,25 +257,25 @@ Representação de conhecimento e inferência.
 ***
 
 15/06/2026\
-<i class="fa-desktop">:desktop:</i> **Oficina: Programação em Prolog**\
+<i class="fa-desktop" style="color:blue;">:desktop:</i> **Oficina: Programação em Prolog**\
 Implementação de regras e bases de conhecimento.
 
 ***
 
 19/06/2026\
-<i class="fa-pencil-line">:pencil-line:</i> **Prova 2º Bimestre**\
+<i class="fa-pencil-line" style="color:$danger;">:pencil-line:</i> **Prova 2º Bimestre**\
 Avaliação abrangendo conteúdos teóricos e práticos do segundo bimestre e entrega do Estudo Dirigido.
 
 ***
 
 22/06/2026\
-<i class="fa-pen-line">:pen-line:</i> **Segunda Chamada – 1º e 2º Bimestres**\
+<i class="fa-pen-line" style="color:$warning;">:pen-line:</i> **Segunda Chamada – 1º e 2º Bimestres**\
 Prova de reposição conforme regulamento institucional.
 
 ***
 
 29/06/2026\
-<i class="fa-flag-checkered">:flag-checkered:</i> **Prova Final**\
+<i class="fa-flag-checkered" style="color:$success;">:flag-checkered:</i> **Prova Final**\
 Avaliação integrativa dos conteúdos do semestre.
 
 ***
