@@ -162,7 +162,7 @@ Atividade: Leitura Dirigida – Metaheurísticas.
 <i class="fa-book">:book:</i> **Aula 11: Computação Evolutiva**\
 Fundamentos de computação evolutiva e introdução aos algoritmos genéticos.
 
-[slides](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/Aula10%20-%20Busca%20competitiva.pdf)
+[slides](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/Aula11%20-%20Computac%CC%A7a%CC%83o%20Evolutiva.pdf)
 
 ***
 
@@ -170,7 +170,7 @@ Fundamentos de computação evolutiva e introdução aos algoritmos genéticos.
 <i class="fa-book">:book:</i> **Aula 12: Algoritmos Genéticos**\
 Fundamentos dos algoritmos genéticos.
 
-[slides](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/Aula10%20-%20Busca%20competitiva.pdf)
+slides
 
 ***
 
@@ -184,7 +184,7 @@ Atividade: Lista de Exercícios – Algoritmos Genéticos (Teórica).
 <i class="fa-book">:book:</i> **Aula 13: Algoritmos Genéticos – Parte 1**\
 Operadores de seleção, recombinação e mutação
 
-[slides](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/Aula10%20-%20Busca%20competitiva.pdf)
+[slides](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/Aula13%20-%20Algoritmos%20Gene%CC%81ticos%20-%20operados%20de%20selec%CC%A7a%CC%83o%20e%20recombinac%CC%A7a%CC%83o.pdf)
 
 ***
 
@@ -198,7 +198,7 @@ Implementação de algoritmo genético para otimização.
 <i class="fa-book">:book:</i> **Aula 14: Algoritmos Genéticos – Parte 2**\
 Variações e aplicações dos algoritmos genéticos.
 
-[slides](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/Aula10%20-%20Busca%20competitiva.pdf)
+[slides](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/Aula14%20-%20Algoritmos%20Gene%CC%81ticos%20-%20variantes.pdf)
 
 ***
 
