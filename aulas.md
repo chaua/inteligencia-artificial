@@ -208,6 +208,8 @@ Variações e aplicações dos algoritmos genéticos.
 <i class="fa-desktop" style="color:blue;">:desktop:</i> **Oficina: Algoritmos Genéticos**\
 Aprimoramento da implementação para otimização.
 
+{% file src=".gitbook/assets/Atividade - Algoritmos Genéticos.ipynb" %}
+
 ***
 
 18/05/2026\
