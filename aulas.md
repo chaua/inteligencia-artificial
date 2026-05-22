@@ -218,6 +218,8 @@ Aprimoramento da implementação para otimização.
 <i class="fa-book">:book:</i> **Aula 15: Inteligência em Enxames**\
 Conceitos e aplicações das técnicas PSO e ACO.
 
+{% file src=".gitbook/assets/Aula15 - Inteligência de enxames.pdf" %}
+
 ***
 
 22/05/2026\
