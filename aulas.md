@@ -18,6 +18,8 @@ layout:
     visible: false
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # Plano de aulas
@@ -270,19 +272,19 @@ Implementação de regras e bases de conhecimento.
 
 ***
 
-19/06/2026\
+26/06/2026\
 <i class="fa-pencil-line" style="color:$danger;">:pencil-line:</i> **Prova 2º Bimestre**\
 Avaliação abrangendo conteúdos teóricos e práticos do segundo bimestre e entrega do Estudo Dirigido.
 
 ***
 
-22/06/2026\
+30/06/2026\
 <i class="fa-pen-line" style="color:$warning;">:pen-line:</i> **Segunda Chamada – 1º e 2º Bimestres**\
 Prova de reposição conforme regulamento institucional.
 
 ***
 
-29/06/2026\
+03/07/2026\
 <i class="fa-flag-checkered" style="color:$success;">:flag-checkered:</i> **Prova Final**\
 Avaliação integrativa dos conteúdos do semestre.
 
