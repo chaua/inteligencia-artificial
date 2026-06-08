@@ -210,9 +210,9 @@ Variações e aplicações dos algoritmos genéticos.
 <i class="fa-desktop" style="color:blue;">:desktop:</i> **Oficina: Algoritmos Genéticos**\
 Aprimoramento da implementação para otimização.
 
-[link](.gitbook/assets/Atividade%20-%20Algoritmos%20Gen%C3%A9ticos.ipynb)
+[link](../.gitbook/assets/Atividade%20-%20Algoritmos%20Gen%C3%A9ticos.ipynb)
 
-{% file src=".gitbook/assets/Atividade - Algoritmos Genéticos.ipynb" %}
+{% file src="../.gitbook/assets/Atividade - Algoritmos Genéticos.ipynb" %}
 
 ***
 
@@ -220,7 +220,7 @@ Aprimoramento da implementação para otimização.
 <i class="fa-book">:book:</i> **Aula 15: Inteligência em Enxames**\
 Conceitos e aplicações das técnicas PSO e ACO.
 
-{% file src=".gitbook/assets/Aula15 - Inteligência de enxames.pdf" %}
+{% file src="../.gitbook/assets/Aula15 - Inteligência de enxames.pdf" %}
 
 ***
 
@@ -257,6 +257,8 @@ Atividade: Leitura Dirigida – Programação Lógica.
 08/06/2026\
 <i class="fa-book">:book:</i> **Aula 17: Introdução à Programação Lógica**\
 Fundamentos e sintaxe da linguagem Prolog.
+
+
 
 ***
 

@@ -17,6 +17,8 @@ layout:
     visible: false
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # Avaliações
@@ -32,6 +34,10 @@ layout:
 
 <mark style="color:$info;">19/06/2026</mark>\
 <i class="fa-memo" style="color:$primary;">:memo:</i> **ED 2: Utilização de algoritmos genéticos para problemas de escalonamento**
+
+{% content-ref url="estudo-dirigido-2.md" %}
+[estudo-dirigido-2.md](estudo-dirigido-2.md)
+{% endcontent-ref %}
 
 ***
 
