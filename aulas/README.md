@@ -266,6 +266,12 @@ Fundamentos e sintaxe da linguagem Prolog.
 <i class="fa-book">:book:</i> **Aula 18: Programação em Prolog**\
 Representação de conhecimento e inferência.
 
+{% file src="../.gitbook/assets/taplog.pdf" %}
+
+{% content-ref url="atividade-prolog.md" %}
+[atividade-prolog.md](atividade-prolog.md)
+{% endcontent-ref %}
+
 ***
 
 15/06/2026\
