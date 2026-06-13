@@ -32,7 +32,7 @@ layout:
 
 ***
 
-<mark style="color:$info;">19/06/2026</mark>\
+<mark style="color:$info;">26/06/2026</mark>\
 <i class="fa-memo" style="color:$primary;">:memo:</i> **ED 2: Utilização de algoritmos genéticos para problemas de escalonamento**
 
 {% content-ref url="estudo-dirigido-2.md" %}
@@ -52,17 +52,17 @@ layout:
 
 ***
 
-<mark style="color:$info;">19/06/2026</mark>\
+<mark style="color:$info;">26/06/2026</mark>\
 <i class="fa-pencil-line" style="color:$danger;">:pencil-line:</i> **Prova 2º Bimestre**
 
 ***
 
-<mark style="color:$info;">22/06/2026</mark>\
+<mark style="color:$info;">30/06/2026</mark>\
 <i class="fa-pen-line" style="color:$warning;">:pen-line:</i> **Segunda Chamada – 1º e 2º Bimestres**
 
 ***
 
-<mark style="color:$info;">29/06/2026</mark>\
+<mark style="color:$info;">03/07/2026</mark>\
 <i class="fa-flag-checkered" style="color:$success;">:flag-checkered:</i> **Prova Final**
 
 ***
