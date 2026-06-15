@@ -55,8 +55,6 @@ layout:
 <mark style="color:$info;">26/06/2026</mark>\
 <i class="fa-pencil-line" style="color:$danger;">:pencil-line:</i> **Prova 2º Bimestre**
 
-{% file src="../.gitbook/assets/2025-ia-prova02.pdf" %}
-
 [prova02-2025](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/2025-ia-prova02.pdf)
 
 [prova02-2025\_gabarito](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/2025-ia-prova02.pdf)
