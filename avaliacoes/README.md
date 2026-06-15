@@ -55,6 +55,10 @@ layout:
 <mark style="color:$info;">26/06/2026</mark>\
 <i class="fa-pencil-line" style="color:$danger;">:pencil-line:</i> **Prova 2º Bimestre**
 
+{% file src="../.gitbook/assets/2025-ia-prova02.pdf" %}
+
+
+
 ***
 
 <mark style="color:$info;">30/06/2026</mark>\
