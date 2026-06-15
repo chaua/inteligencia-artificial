@@ -57,7 +57,7 @@ layout:
 
 {% file src="../.gitbook/assets/2025-ia-prova02.pdf" %}
 
-
+[prova02-2025](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/2025-ia-prova02.pdf)
 
 ***
 
