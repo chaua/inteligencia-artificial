@@ -57,7 +57,7 @@ layout:
 
 [prova02-2025](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/2025-ia-prova02.pdf)
 
-[prova02-2025\_gabarito](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/2025-ia-prova02.pdf)
+[prova02-2025\_gabarito](https://raw.githubusercontent.com/chaua/inteligencia-artificial/gitbook/.gitbook/assets/2025-ia-prova02_gabarito.pdf)
 
 ***
 
